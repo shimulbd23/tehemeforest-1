@@ -18,10 +18,12 @@ div.top-photo{
     margin: 0 auto;
     width: 100%;
     background: black;
+    display: flex;
     
 }
 div.top-photo img{
     width: 200px;
+    height: 200px;
     border: 5px solid rgb(63, 52, 52);
     border-radius: 50%;
 }
